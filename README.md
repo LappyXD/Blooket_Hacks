@@ -1,4 +1,6 @@
 **Blooket Hacks**
+Hacks for the popular school game, Blooket
+
 
 This is a fork of the original Blooket hacks by glixzzy.
 It was recently taken down for unknown reasons, so i decided to take the original source code and put it up for everyone to use.
